@@ -18,10 +18,4 @@ hello,git!hello,joe!
 hello,git!hello,joe!
 hello,git!hello,joe!
 hello,git!hello,joe!
-hello,git!hello,joe!
-hello,git!hello,joe!
-hello,git!hello,joe!
-hello,git!hello,joe!
-hello,git!hello,joe!
-hello,git!hello,joe!
 
